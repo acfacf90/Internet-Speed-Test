@@ -16,9 +16,9 @@ This is a Python script that uses the `speedtest` library to test the internet s
 
 ## Sample Output
 
-Server Location: Test Location (Country)
-Download Speed: 10.42 Mbps
-Upload Speed: 5.17 Mbps
+Server Location: Test Location (Country)  
+Download Speed: 10.42 Mbps  
+Upload Speed: 5.17 Mbps  
 
 ## License
 
